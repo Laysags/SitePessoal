@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://www.casasbahia-imagens.com.br/decoracao/AdesivosdeParede/15077352/1102055604/papel-de-parede-pedras-tijolos-antigos-brancos-300x59cm-15077352.jpg);
+    background-size: auto 180vh;
+    height: 180vh;
+  }
+  
+  .menu {
+    background-color: #151515;
+  }
+  
+  .menu li {
+    color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: white;
+    font-size: 25px
+  }
+  
+  .site-title {
+    color: #151515;
+    font-size: 70px;
+    text-align: center;
+  }
+   
+  .site-subtitle {
+    text-align: center;
+    color: #151515;
+  }
